@@ -1,0 +1,8 @@
+site_name: Go basic
+theme:
+  name: material  # El tema que instalamos arriba
+
+nav:
+  - Inicio: index.md
+  - Guía de Instalación: instalacion.md
+  - API: referencia.md
